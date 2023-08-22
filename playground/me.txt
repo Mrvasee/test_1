@@ -1,5 +1,0 @@
-{{#user}}
-Name: Vaseeharan
-Skills: HTML,CSS,Python,Django,SQL
-Email: vasee407@gmail.com
-{{/user}}
